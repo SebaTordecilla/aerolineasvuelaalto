@@ -1,0 +1,43 @@
+    /*
+ * Custom CSS
+ */
+    
+     :root {
+        --bs-body-bg: var(--bs-gray-100);
+    }
+    
+    nav {
+        display: block;
+        background-color: #1b0088;
+    }
+    
+    #active_font_secondary {
+        color: #ffffff;
+        font-weight: bold;
+    }
+    
+    #font_secondary {
+        color: #ffffff;
+    }
+    
+    #color_primary {
+        background-color: #1b0088;
+    }
+    
+    #img_card {
+        width: 400px;
+        height: 250px;
+        padding: 10px;
+    }
+    
+    #img_carrusel {
+        width: 400px;
+        height: 550px;
+        padding: 10px;
+    }
+    
+    #img_logo {
+        width: 120px;
+        height: 120px;
+        padding: 10px;
+    }
